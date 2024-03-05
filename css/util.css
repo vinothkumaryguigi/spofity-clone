@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+}
+.jc{
+    justify-content: center;
+}
+.ic{
+    align-items: center;
+}
+.bg-block{
+    background-color:black;
+    color: white;
+}
+.bg-grey{
+    background-color: #121212;
+}
+.round{
+    background-repeat: 7px;
+}
+.m-1{
+    margin: 5px;
+}
+.p-1{
+    padding: 10px;
+}

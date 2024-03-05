@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-color: rgb(240, 225, 225);
+    color: white;
+} */
+.invert{
+    filter: invert(1);
+}
+.left{
+    width: 25vwp;
+    padding: 10px;
+
+}
+ul li{
+    width: 14px;
+    list-style: none;
+    gap: 15px;
+    padding-top: 14px;
+    font-weight: normal;
+}
+.heading{
+    width: 100px;
+   list-style: none;
+   gap: 15px;
+   padding-top: 14px;
+   font-weight: bold;
+   align-items: center;
+   padding: 23px 14px;
+   font-style: 13px;
+}
+.heading img{
+    width: 30px;
+}
+.right{
+    width: 75vw;;
+}
